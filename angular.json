@@ -43,5 +43,8 @@
       }
     }
   },
-  "defaultProject": "angular2-query-builder"
+  "defaultProject": "angular2-query-builder",
+  "cli": {
+    "analytics": false
+  }
 }
